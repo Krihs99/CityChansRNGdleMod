@@ -1,0 +1,14 @@
+{
+  "citychanrngdle.sound.fate_spin":               "Fate spinning",
+  "citychanrngdle.sound.fate_land":               "Fate revealed",
+  "citychanrngdle.sound.fate_effect_pop":         "Fate effect revealed",
+  "citychanrngdle.sound.fate_notable":            "Notable fate revealed",
+  "effect.citychanrngdle.bountiful_harvest":      "Bountiful Harvest",
+  "effect.citychanrngdle.enlightened":            "Enlightened",
+  "effect.citychanrngdle.broken_legs":            "Broken Legs",
+  "effect.citychanrngdle.weeping_angel":          "Weeping Angel",
+  "effect.citychanrngdle.slippery":               "Slippery",
+  "effect.citychanrngdle.colorblind":             "Colorblind",
+  "effect.citychanrngdle.lightweight":            "Lightweight",
+  "effect.citychanrngdle.frail":                  "Frail"
+}
